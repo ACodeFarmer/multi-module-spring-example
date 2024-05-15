@@ -1,2 +1,2 @@
-# buildSrc Example
+# Multi module Springboot  Example
 

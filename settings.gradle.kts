@@ -9,4 +9,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "buildSrc-example"
+rootProject.name = "multi-module-springboot-example"
